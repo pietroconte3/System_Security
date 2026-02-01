@@ -2,7 +2,6 @@
 
 Questo repository contiene lo svolgimento degli Homework assegnati per il corso di **System Security**.
 
-> [!CAUTION]
 > **DISCLAIMER:** Tutte le chiavi utilizzate in questo progetto sono generate esclusivamente per scopi didattici.
 
 ---
@@ -30,12 +29,3 @@ Configurazione e messa in sicurezza di web server **Apache 2** e **Tomcat**, con
 
 ### [Homework 4 - Identity & Access Management](./HW4)
 Studio e implementazione di sistemi per la **gestione delle identità**, controllo degli accessi e gestione sicura delle credenziali.
-
----
-
-## 🛠️ Tecnologie Utilizzate
-* **Linguaggi:** Java, Bash
-* **Strumenti:** OpenSSL, Apache HTTP Server, Apache Tomcat
-* **Sicurezza:** TLS/SSL, PKI, Crittografia Simmetrica/Asimmetrica
-
----
